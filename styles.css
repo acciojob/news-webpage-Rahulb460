@@ -44,7 +44,11 @@ li{
     font-weight:lighter;
     font-size: 16px;
 }
-h3{
-	font-weight:lighter;
+p{
+    font-weight:lighter;
     font-size: 16px;
+}
+h3{
+	font-weight:bold;
+    font-size: 22px;
 }
